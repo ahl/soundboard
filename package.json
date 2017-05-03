@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "soundboard",
+  "version": "0.0.1",
+  "files": [
+    "src/"
+  ],
+  "dependencies": {
+    "mediaelement": "*",
+    "jquery": "*"
+  }
+}
